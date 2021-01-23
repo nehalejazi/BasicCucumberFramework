@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: New Login Page feature
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 62.495 s - in New Login Page feature
